@@ -28,6 +28,9 @@ Mobile Device (Host)             Client Devices
 ### File Share Screen
 ![Alt text](/sharescreen.jpg)
 
+### Web Receive Window
+![Alt text](/WebReceive.PNG)
+
 ## Getting Started
 
 ### Prerequisites

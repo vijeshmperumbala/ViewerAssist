@@ -24,6 +24,9 @@ Mobile Device (Host)             Client Devices
 │  192.168.x.x:8080   │
 └─────────────────────┘
 ```
+## Sreens
+### File Share Screen
+![Alt text](share screen.jpg)
 
 ## Getting Started
 

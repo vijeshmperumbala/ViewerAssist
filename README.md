@@ -26,7 +26,7 @@ Mobile Device (Host)             Client Devices
 ```
 ## Sreens
 ### File Share Screen
-![Alt text](share screen.jpg)
+![Alt text](/sharescreen.jpg)
 
 ## Getting Started
 
